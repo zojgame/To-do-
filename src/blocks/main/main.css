@@ -1,0 +1,9 @@
+.main {
+  width: 40%;
+  margin: -250px auto 110px;
+  z-index: 5;
+  transition: all 0.5s;
+  top: 12rem;
+  padding: 5px;
+  min-width: 320px;
+}
